@@ -1,0 +1,11 @@
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\PictureViewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
